@@ -1,0 +1,42 @@
+
+v1.0
+
+Base Software History
+First version with cal value inserted by wh.
+Objects rationalised for current functionality.
+Form window name adjusted to "FT101 Ext VFO".
+Band selection radio buttons added.
+Text box added.
+Band text added.
+Trim and zero trim function added.
+Message Box messages added.
+CAL int. converted to text and saved on z drive as vfo_state.txt file.
+HD File data recall of cal value.
+HD Freq. store / recall added.
+Memory Scan added. 3S dwell.
+Scan indicators added.
+Scan Button text colour change added.
+Scan speeds of 1S 3S and 9S added.
+Main Freq. scroll added pending functional integration.
+Main Freq. scroll now functional.
+Additional 2 x frequency memories added.
+Save and recall bugs noticed and fixed which would exist in the lower pgm. versions also.
+Band scroll function objects added pending functionality integration.
+Band scroll function objects integrated.
+Band scroll functionality removed.
+Scroll Sync to Dial value added.
+Baud Rate increased to 14400.
+Mem Freq. displays added.
+Mem Freq. displays updated at pgm. boot-up.
+
+Mods for FT101E control introduced and are as follows from this point forward >
+Form title updated to v 0.2.
+Cal Constants updated to match FT101E transiver.
+160M radio button and VFO freq. control added and scaled.
+Bands instruction window messages updated.
+Form title updated to v 0.3.
+Memory selection and storage updated for 160M.
+Scan function checked for correct operation at 160M.
+
+Form title updated to v 1.0. 
+Issue v1.0 

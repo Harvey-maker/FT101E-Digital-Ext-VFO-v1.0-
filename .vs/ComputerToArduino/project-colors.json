@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "96828f1e-48b3-45b7-9c6a-2512bdec3921": {
+      "ProjectGuid": "96828f1e-48b3-45b7-9c6a-2512bdec3921",
+      "DisplayName": "ComputerToArduino",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

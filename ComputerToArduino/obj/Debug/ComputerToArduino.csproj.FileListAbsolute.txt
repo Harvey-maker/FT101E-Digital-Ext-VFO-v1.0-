@@ -1,0 +1,481 @@
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.application
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.application
+C:\Users\Nick\Documents\Visual Studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ArduinoComputerCommunication\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ArduinoComputerCommunication\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ArduinoComputerCommunication\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ArduinoComputerCommunication\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ArduinoComputerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ArduinoComputerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ArduinoComputerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ArduinoComputerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ArduinoComputerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ArduinoComputerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ArduinoComputerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ArduinoComputerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ArduinoComputerCommunication\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\Archive\Arduino Studies\Arduino C# Application\VS Files\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\Archive\Arduino Studies\Arduino C# Application\VS Files\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\Archive\Arduino Studies\Arduino C# Application\VS Files\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\Archive\Arduino Studies\Arduino C# Application\VS Files\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\Archive\Arduino Studies\Arduino C# Application\VS Files\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\Archive\Arduino Studies\Arduino C# Application\VS Files\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\Archive\Arduino Studies\Arduino C# Application\VS Files\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\Archive\Arduino Studies\Arduino C# Application\VS Files\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\Archive\Arduino Studies\Arduino C# Application\VS Files\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\Archive\Arduino Studies\Arduino C# Application\VS Files\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\Archive\Arduino Studies\Arduino C# Application\VS Files\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\Archive\Arduino Studies\Arduino C# Application\VS Files\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\Archive\Arduino Studies\Arduino C# Application\VS Files\ArduinoComputerCommunication - DH\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\Archive\Arduino Studies\VFO Serial Link (1)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\Archive\Arduino Studies\VFO Serial Link (1)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\Archive\Arduino Studies\VFO Serial Link (1)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\Archive\Arduino Studies\VFO Serial Link (1)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\Archive\Arduino Studies\VFO Serial Link (1)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\Archive\Arduino Studies\VFO Serial Link (1)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\Archive\Arduino Studies\VFO Serial Link (1)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\Archive\Arduino Studies\VFO Serial Link (1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\Archive\Arduino Studies\VFO Serial Link (1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\Archive\Arduino Studies\VFO Serial Link (1)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\Archive\Arduino Studies\VFO Serial Link (1)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\Archive\Arduino Studies\VFO Serial Link (1)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\Archive\Arduino Studies\VFO Serial Link (1)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\Archive\Arduino Studies\VFO Serial Link (2)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\Archive\Arduino Studies\VFO Serial Link (2)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\Archive\Arduino Studies\VFO Serial Link (2)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\Archive\Arduino Studies\VFO Serial Link (2)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\Archive\Arduino Studies\VFO Serial Link (2)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\Archive\Arduino Studies\VFO Serial Link (2)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\Archive\Arduino Studies\VFO Serial Link (2)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\Archive\Arduino Studies\VFO Serial Link (2)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\Archive\Arduino Studies\VFO Serial Link (2)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\Archive\Arduino Studies\VFO Serial Link (2)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\Archive\Arduino Studies\VFO Serial Link (2)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\Archive\Arduino Studies\VFO Serial Link (2)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\Archive\Arduino Studies\VFO Serial Link (2)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\Archive\Arduino Studies\VFO Serial Link (3)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\Archive\Arduino Studies\VFO Serial Link (3)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\Archive\Arduino Studies\VFO Serial Link (3)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\Archive\Arduino Studies\VFO Serial Link (3)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\Archive\Arduino Studies\VFO Serial Link (3)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\Archive\Arduino Studies\VFO Serial Link (3)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\Archive\Arduino Studies\VFO Serial Link (3)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\Archive\Arduino Studies\VFO Serial Link (3)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\Archive\Arduino Studies\VFO Serial Link (3)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\Archive\Arduino Studies\VFO Serial Link (3)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\Archive\Arduino Studies\VFO Serial Link (3)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\Archive\Arduino Studies\VFO Serial Link (3)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\Archive\Arduino Studies\VFO Serial Link (3)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\Archive\Arduino Studies\VFO Serial Link (4)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\Archive\Arduino Studies\VFO Serial Link (4)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\Archive\Arduino Studies\VFO Serial Link (4)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\Archive\Arduino Studies\VFO Serial Link (4)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\Archive\Arduino Studies\VFO Serial Link (4)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\Archive\Arduino Studies\VFO Serial Link (4)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\Archive\Arduino Studies\VFO Serial Link (4)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\Archive\Arduino Studies\VFO Serial Link (4)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\Archive\Arduino Studies\VFO Serial Link (4)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\Archive\Arduino Studies\VFO Serial Link (4)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\Archive\Arduino Studies\VFO Serial Link (4)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\Archive\Arduino Studies\VFO Serial Link (4)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\Archive\Arduino Studies\VFO Serial Link (4)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\Archive\Arduino Studies\VFO Serial Link (5)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\Archive\Arduino Studies\VFO Serial Link (5)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\Archive\Arduino Studies\VFO Serial Link (5)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\Archive\Arduino Studies\VFO Serial Link (5)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\Archive\Arduino Studies\VFO Serial Link (5)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\Archive\Arduino Studies\VFO Serial Link (5)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\Archive\Arduino Studies\VFO Serial Link (5)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\Archive\Arduino Studies\VFO Serial Link (5)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\Archive\Arduino Studies\VFO Serial Link (5)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\Archive\Arduino Studies\VFO Serial Link (5)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\Archive\Arduino Studies\VFO Serial Link (5)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\Archive\Arduino Studies\VFO Serial Link (5)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\Archive\Arduino Studies\VFO Serial Link (5)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (a)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (a)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (a)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (a)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (a)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (a)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (a)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (a)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (a)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (a)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (a)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (a)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (a)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (1)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (1)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (1)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (1)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (1)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (1)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (1)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (1)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (1)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (1)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (1)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (2)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (2)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (2)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (2)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (2)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (2)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (2)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (2)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (2)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (2)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (2)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (2)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band select (2)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Trim (1)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Trim (1)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Trim (1)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Trim (1)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Trim (1)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Trim (1)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Trim (1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Trim (1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Trim (1)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Trim (1)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Trim (1)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Trim (1)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Trim (1)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band Sel  Trim (1)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band Sel  Trim (1)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band Sel  Trim (1)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band Sel  Trim (1)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band Sel  Trim (1)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band Sel  Trim (1)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band Sel  Trim (1)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band Sel  Trim (1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band Sel  Trim (1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band Sel  Trim (1)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band Sel  Trim (1)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band Sel  Trim (1)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) Band Sel  Trim (1)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (1)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (1)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (1)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (1)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (1)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (1)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (1)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (1)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (1)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (1)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (1)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (2)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (2)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (2)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (2)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (2)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (2)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (2)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (2)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (2)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (2)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (2)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (2)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (2)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3) - redone\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3) - redone\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3) - redone\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3) - redone\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3) - redone\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3) - redone\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3) - redone\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3) - redone\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3) - redone\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3) - redone\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3) - redone\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3) - redone\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3) - redone\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - redone\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - redone\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - redone\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - redone\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - redone\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - redone\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - redone\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - redone\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - redone\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - redone\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - redone\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - redone\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - redone\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+C:\Users\William\Documents\Visual Studio 2019\My Projects\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+C:\Users\William\Documents\Visual Studio 2019\My Projects\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\bin\Debug\ComputerToArduino.application
+C:\Users\William\Documents\Visual Studio 2019\My Projects\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+C:\Users\William\Documents\Visual Studio 2019\My Projects\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+C:\Users\William\Documents\Visual Studio 2019\My Projects\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+C:\Users\William\Documents\Visual Studio 2019\My Projects\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+C:\Users\William\Documents\Visual Studio 2019\My Projects\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+C:\Users\William\Documents\Visual Studio 2019\My Projects\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+C:\Users\William\Documents\Visual Studio 2019\My Projects\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+C:\Users\William\Documents\Visual Studio 2019\My Projects\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+C:\Users\William\Documents\Visual Studio 2019\My Projects\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\obj\Debug\ComputerToArduino.application
+C:\Users\William\Documents\Visual Studio 2019\My Projects\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+C:\Users\William\Documents\Visual Studio 2019\My Projects\VFO Serial Link (5) HD Save (4) - backup1\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD Save (3)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD scan Save (1)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD scan Save (1)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD scan Save (1)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD scan Save (1)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD scan Save (1)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD scan Save (1)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD scan Save (1)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD scan Save (1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD scan Save (1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD scan Save (1)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD scan Save (1)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD scan Save (1)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\VFO Serial Link (5) HD scan Save (1)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.1)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.1)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.1)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.1)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.1)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.1)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.1)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.1)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.1)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.1)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.1)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.2)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.2)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.2)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.2)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.2)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.2)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.2)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.2)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.2)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.2)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.2)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.2)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.2)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.0)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.0)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.0)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.0)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.0)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.0)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.0)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.0)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.0)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.0)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.0)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.0)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.0)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.3)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.3)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.3)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.3)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.3)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.3)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.3)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.3)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.3)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.3)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.3)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.3)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.3)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.4)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.4)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.4)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.4)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.4)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.4)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.4)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.4)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.4)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.4)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.4)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.4)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.4)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.5)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.5)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.5)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.5)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.5)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.5)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.5)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.5)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.5)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.5)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.5)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.5)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.5)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.6)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.6)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.6)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.6)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.6)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.6)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.6)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.6)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.6)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.6)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.6)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.6)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.6)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.7)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.7)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.7)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.7)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.7)\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.7)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.7)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.7)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.7)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.7)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.7)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.7)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101 Digital Ext VFO (v1.7)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.AssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.AssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.1)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.2)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.2)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.2)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.2)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.2)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.AssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.2)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.2)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.2)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.2)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.2)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.2)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.2)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.2)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.3)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.3)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.3)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.3)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.3)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.AssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.3)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.3)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.3)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.3)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.3)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.3)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.3)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v0.3)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v1.0)\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v1.0)\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v1.0)\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v1.0)\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v1.0)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.AssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v1.0)\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v1.0)\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v1.0)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v1.0)\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v1.0)\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v1.0)\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v1.0)\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101E Ext. VFO Working Files (Z)\FT101E Digital Ext VFO (v1.0)\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) working\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) working\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) working\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) working\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) working\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.AssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) working\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) working\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) working\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) working\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) working\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) working\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) working\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) working\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) - Working\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) - Working\ComputerToArduino\bin\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) - Working\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) - Working\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) - Working\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.AssemblyReference.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) - Working\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) - Working\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) - Working\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) - Working\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) - Working\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) - Working\ComputerToArduino\obj\Debug\ComputerToArduino.application
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) - Working\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+Z:\ARCHIVE\Arduino Studies\FT101E Digital Ext VFO (v1.0) - Working\ComputerToArduino\obj\Debug\ComputerToArduino.pdb

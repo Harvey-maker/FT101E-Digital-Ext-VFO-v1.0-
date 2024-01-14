@@ -1,0 +1,132 @@
+﻿using System;
+using System.ComponentModel;
+using System.Drawing;
+using System.IO;
+using System.IO.Ports;
+using System.Threading;
+using System.Windows.Forms;
+
+
+namespace ComputerToArduino
+{
+    public partial class Form1 : Form
+    {
+        private BackgroundWorker BackgroundWorker = new BackgroundWorker();
+        private long FullScaleDelta = 7500000;
+        private long VFO_Constant = 5000000;
+        private long CrystalFrequency = 125001271;
+        private long Cal_Constant = 203799;
+        private const string EnabledValue = "1";
+        private const string DisabledValue = "0";
+        private int Trimscrolloset = -500;
+        private int Trim = 0;
+        private int scanspeed = 3;
+
+        private bool isConnected = false;
+        private String[] ports;
+        private SerialPort port;
+
+        private string SaveFile = @"z:\\vfo_state.txt";
+        private string SaveFile1 = @"z:\\freq1.txt";
+        private string SaveFile2 = @"z:\\freq2.txt";
+        private string SaveFile3 = @"z:\\freq3.txt";
+        private string SaveFile4 = @"z:\\freq4.txt";
+        private string Freqstring = "";
+        private string Band = "0";
+        private bool DoWork = true;
+       
+        public object Exit { get; private set; }
+        public string exit { get; private set; }
+
+        public Form1()
+        {
+            InitializeComponent();
+            disableControls();
+            getAvailableComPorts();
+
+            foreach (string port in ports)
+            {
+                comboBox1.Items.Add(port);
+                Console.WriteLine(port);
+                if (ports[0] != null)
+                {
+                    comboBox1.SelectedItem = ports[0];
+                }
+            }
+            // INITIALISATION CODE TOP
+
+            textBox5.Text = "OFF";
+            textBox5.ForeColor = Color.Red;
+            textBox1.Text += "SELECT OPERATING BAND" + Environment.NewLine;
+            button16.ForeColor = Color.Red; // initalize scan rate button
+            button14.ForeColor = Color.Red; // initalize scan stop button  
+
+            // INITIALISATION CODE BOTTOM
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (!isConnected)
+            {
+                connectToArduino();
+                Console.Beep(1500, 200);
+            }
+            else
+            {
+                disconnectFromArduino();
+                Console.Beep(1500, 200);
+            }
+        }
+
+        void getAvailableComPorts()
+        {
+            ports = SerialPort.GetPortNames();
+        }
+
+        private void connectToArduino()
+        {
+            isConnected = true;
+            string selectedPort = comboBox1.GetItemText(comboBox1.SelectedItem);
+            port = new SerialPort(selectedPort, 9600, Parity.None, 8, StopBits.One);
+            port.DataReceived += Port_DataReceived;
+            port.Open();
+
+            button1.Text = "Disconnect";
+            enableControls();
+        }
+
+        private void Port_DataReceived(object sender, SerialDataReceivedEventArgs e)
+        {
+            switch (port.ReadExisting())
+            {
+                case EnabledValue:
+                    UpdateState("ON", Color.Red);
+                    return;
+                case DisabledValue:
+                    UpdateState("OFF", Color.Red);
+                    return;
+            }
+        }
+
+        private void UpdateState(string state, Color stateColor)
+        {
+            textBox5.Invoke((MethodInvoker)delegate
+            {
+                textBox5.Text = state;
+                textBox5.ForeColor = stateColor;
+            });
+        }
+
+        private void disconnectFromArduino()
+        {
+            isConnected = false;
+            port.Close();
+            button1.Text = "Connect";
+            disableControls();
+            resetDefaults();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (isConnected)
+   
