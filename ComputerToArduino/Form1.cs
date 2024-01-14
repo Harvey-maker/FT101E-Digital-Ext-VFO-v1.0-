@@ -692,6 +692,7 @@ namespace ComputerToArduino
         private void button5_Click_1(object sender, EventArgs e) // Mem 1
         {
             // This is a comment.
+            // This is another comment.
             Console.Beep(2000, 200);
             //Console.Beep(1500, 200);
 
